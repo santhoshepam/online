@@ -36,7 +36,7 @@ class OnlineTest extends JFrame implements ActionListener
 		add(b1);add(b2);
 		set();
 		l.setBounds(30,40,450,20);
-		jb[0].setBounds(50,80,100,20);
+		jb[0].setBounds(54,80,100,20);
 		jb[1].setBounds(50,110,100,20);
 		jb[2].setBounds(50,140,100,20);
 		jb[3].setBounds(50,170,100,20);
